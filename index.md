@@ -8,7 +8,7 @@ zxc-00@sjtu.edu.cn
 *(Ranked by personal flavor)* 
  
 <font size=4>A Novel Metric for Evaluating Semantics Preservation</font> 
-~ Pre-trained Semantics Master <br>
+*<font size=2>~ Pre-trained Semantics Master</font>* <br>
 Authors: **Letian Peng**, Zuchao Li and Hai Zhao <br>
 https://arxiv.org/abs/2110.01176 
 
