@@ -7,13 +7,16 @@ zxc-00@sjtu.edu.cn
 ## Tour with Linguisitics ~ Be of good cheer! 
 *(Ranked by personal flavor)* 
  
-<font size=4>A Novel Metric for Evaluating Semantics Preservation</font>  <br>
-**Letian Peng**, Zuchao Li and Hai Zhao <br>
+<font size=4>A Novel Metric for Evaluating Semantics Preservation</font> 
+~ Pre-trained Semantics Master <br>
+Authors: **Letian Peng**, Zuchao Li and Hai Zhao <br>
 https://arxiv.org/abs/2110.01176 
 
-<font size=4>Unsupervised Full Constituency Parsing with Neighboring Distribution Divergence</font>  <br>
-**Letian Peng**, Zuchao Li and Hai Zhao <br>
+<font size=4>Unsupervised Full Constituency Parsing with Neighboring Distribution Divergence</font> 
+~ Intelligent Molds
+Authors: **Letian Peng**, Zuchao Li and Hai Zhao <br>
 
-<font size=4>Sparse Fuzzy Attention for Structured Sentiment Analysis</font>  <br>
-**Letian Peng**, Zuchao Li and Hai Zhao <br>
+<font size=4>Sparse Fuzzy Attention for Structured Sentiment Analysis</font> 
+~ Candidates Linking <br>
+Authors: **Letian Peng**, Zuchao Li and Hai Zhao <br>
 https://arxiv.org/abs/2109.06719 
