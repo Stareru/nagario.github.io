@@ -19,4 +19,4 @@ Authors: **Letian Peng**, Zuchao Li and Hai Zhao <br>
 <font size=4>Sparse Fuzzy Attention for Structured Sentiment Analysis</font> 
 ~ Candidates Linking <br>
 Authors: **Letian Peng**, Zuchao Li and Hai Zhao <br>
-https://arxiv.org/abs/2109.06719 
+https://arxiv.org/abs/2109.06719  
