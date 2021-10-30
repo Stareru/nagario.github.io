@@ -6,7 +6,11 @@
 
 Undergraduate of Shanghai Jiao Tong University
 
-zxc-00@sjtu.edu.cn
+Email: zxc-00@sjtu.edu.cn
+
+## Researching Interest and Experience ##
+
+I am currently focusing in the field of computer linguistics. My major researching interest is to refine the predicting procedure of pre-trained models towards better unsupervised or very few shot performance. Linguistics itself is also an interesting point for me to explore with intelligent algorithms. Parsing, Machine Reading Comprehension and Rewriting are the sub-domains that I have contributed to. I am very open to academic discussion, email me at any time if you want to talk about (computer) linguistics!
 
 ## Tour with Linguisitics ~ Be of good cheer! 
 *(Ranked by personal flavor)* 
