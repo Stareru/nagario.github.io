@@ -1,5 +1,7 @@
 ## Letian Peng's Homepage
 
+![Book logo](Stareru/nagario.github.io/Myphoto.jpg)
+
 Undergraduate of Shanghai Jiao Tong University
 
 zxc-00@sjtu.edu.cn
