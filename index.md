@@ -1,6 +1,8 @@
 ## Letian Peng's Homepage
-
-![Book logo](./Myphoto.jpg)
+<div align="center">
+	<img src="./Myphoto.jpg" width="50%">
+</div>
+<!-- ![Book logo](./Myphoto.jpg) -->
 
 Undergraduate of Shanghai Jiao Tong University
 
