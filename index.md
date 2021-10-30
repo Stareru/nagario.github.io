@@ -4,9 +4,9 @@ Undergraduate of Shanghai Jiao Tong University
 
 zxc-00@sjtu.edu.cn
 
-## Tour with Linguisitics ~ Be of good cheer!
+## Tour with Linguisitics ~ Be of good cheer! 
 *(Ranked by personal flavor)* 
-
+ 
 <font size=4>A Novel Metric for Evaluating Semantics Preservation</font> 
 **Letian Peng**, Zuchao Li and Hai Zhao 
 https://arxiv.org/abs/2110.01176 
