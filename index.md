@@ -1,6 +1,6 @@
 ## Letian Peng's Homepage
 
-![Book logo](Stareru/nagario.github.io/Myphoto.jpg)
+![Book logo](./Myphoto.jpg)
 
 Undergraduate of Shanghai Jiao Tong University
 
