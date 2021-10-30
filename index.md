@@ -1,4 +1,4 @@
-## Letian Peng's Homepage
+## Personal Information
 <div align="left">
 	<img src="./Myphoto_Small.jpg" width="20%">
 </div>
