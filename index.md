@@ -1,5 +1,5 @@
 ## Letian Peng's Homepage
-<div align="center">
+<div align="left">
 	<img src="./Myphoto.jpg" width="50%">
 </div>
 <!-- ![Book logo](./Myphoto.jpg) -->
