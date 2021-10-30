@@ -8,7 +8,7 @@ zxc-00@sjtu.edu.cn
 *(Ranked by personal flavor)* 
  
 <font size=4>A Novel Metric for Evaluating Semantics Preservation</font> 
-**Letian Peng**, Zuchao Li and Hai Zhao 
+**Letian Peng**, Zuchao Li and Hai Zhao <br>
 https://arxiv.org/abs/2110.01176 
 
 <font size=4>Unsupervised Full Constituency Parsing with Neighboring Distribution Divergence</font> 
