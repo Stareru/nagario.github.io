@@ -23,6 +23,10 @@ https://arxiv.org/abs/2110.01176
 Authors: **Letian Peng**, Zuchao Li and Hai Zhao <br>
 https://arxiv.org/abs/2110.15931
 
+<font size=4>Semantics-Preserved Distortion for Personal Privacy Protection</font> 
+Authors: **Letian Peng**, Zuchao Li and Hai Zhao <br>
+https://arxiv.org/abs/2201.00965
+
 <font size=4>Sparse Fuzzy Attention for Structured Sentiment Analysis</font>
 Authors: **Letian Peng**, Zuchao Li and Hai Zhao <br>
 https://arxiv.org/abs/2109.06719  
